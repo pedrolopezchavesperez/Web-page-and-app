@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+  <persona>
+    <nombre>Anxo</nombre>
+    <apellido>Martínez</apellido>
+    <edad>30</edad>
+  </persona>
+  <persona>
+    <nombre>Xosé</nombre>
+    <apellido>Pérez</apellido>
+    <edad>25</edad>
+  </persona>
+    <persona>
+        <nombre>María</nombre>
+        <apellido>Varela</apellido>
+        <edad>40</edad>
+    </persona>
+    <persona>
+        <nombre>Tomás</nombre>
+        <apellido>Rodríguez</apellido>
+        <edad>35</edad>
+    </persona>
+</datos>

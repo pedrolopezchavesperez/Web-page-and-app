@@ -1,0 +1,76 @@
+{
+  "datos": [
+    {
+      "nombre": "Juan García López",
+      "edad": 28,
+      "rol": "Presidente",
+      "departamento": "Directiva"
+    },
+    {
+      "nombre": "Ana Mena Sánchez",
+      "edad": 32,
+      "rol": "Vicepresidenta",
+      "departamento": "Directiva"
+    },
+    {
+      "nombre": "Pedro Martínez Martínez",
+      "edad": 42,
+      "rol": "Tesorero",
+      "departamento": "Directiva"
+    },
+    {
+      "nombre": "Sara García García",
+      "edad": 35,
+      "rol": "Secretaria",
+      "departamento": "Directiva"
+    },
+    {
+      "nombre": "Carlos Martínez Sánchez",
+      "edad": 29,
+      "rol": "Coordinador",
+      "departamento": "Voluntarios"
+    },
+    {
+      "nombre": "María López López",
+      "edad": 27,
+      "rol": "Voluntaria",
+      "departamento": "Voluntarios"
+    },
+    {
+      "nombre": "José García Martínez",
+      "edad": 33,
+      "rol": "Voluntario",
+      "departamento": "Voluntarios"
+    },
+    {
+      "nombre": "Laura Mena García",
+      "edad": 26,
+      "rol": "Voluntaria",
+      "departamento": "Voluntarios"
+    },
+    {
+      "nombre": "Miguel Sánchez Martínez",
+      "edad": 40,
+      "rol": "Coordinador",
+      "departamento": "Monitores"
+    },
+    {
+      "nombre": "Lucía Martínez Sánchez",
+      "edad": 28,
+      "rol": "Monitora",
+      "departamento": "Monitores"
+    },
+    {
+      "nombre": "Antonio López García",
+      "edad": 35,
+      "rol": "Monitor",
+      "departamento": "Monitores"
+    },
+    {
+      "nombre": "Isabel García Mena",
+      "edad": 31,
+      "rol": "Monitora",
+      "departamento": "Monitores"
+    }
+  ]
+}
